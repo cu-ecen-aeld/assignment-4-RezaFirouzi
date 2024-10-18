@@ -1,4 +1,6 @@
 *.o
 build/
+cmake-build-debug/
 .vscode/
 *.log
+.idea
